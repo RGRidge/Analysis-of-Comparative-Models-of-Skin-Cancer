@@ -1,4 +1,4 @@
-# Clasificación de Lesiones Dermatoscópicas con Arquitecturas de Deep Learning
+![imagen](https://github.com/user-attachments/assets/b3a94a17-03aa-4249-add7-325e0b0dd674)# Clasificación de Lesiones Dermatoscópicas con Arquitecturas de Deep Learning
 Desarrollo y evaluación de modelos de deep learning para la clasificación de imágenes dermatoscópicas, enfocándose en melanoma y carcinomas, usando arquitecturas como CNN, ViT y ConvNeXt, con técnicas de aprendizaje por transferencia y análisis comparativo de rendimiento.
 
 ## 📌 Objetivo
@@ -25,6 +25,19 @@ Se utilizó el conjunto **HAM10000** (Harvard & ViDIR, ISIC Challenge), aplicado
 - F1-score
 - Matriz de confusión
 - Gráficos de pérdida y precisión por época
+
+# CNN
+![imagen](https://github.com/user-attachments/assets/4f64ffca-2707-4fea-bd78-7a6e23a3d877)
+
+# Vision Transformer
+
+![imagen](https://github.com/user-attachments/assets/14035cd6-43ea-46a8-99a2-69add403c33f)
+
+
+# ConvNext
+![imagen](https://github.com/user-attachments/assets/6c366275-b013-4eaa-8226-d39c55afd87a)
+
+
 
 ## ⚙️ Requisitos
 
