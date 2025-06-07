@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/b3a94a17-03aa-4249-add7-325e0b0dd674)# Clasificación de Lesiones Dermatoscópicas con Arquitecturas de Deep Learning
+# Clasificación de Lesiones Dermatoscópicas con Arquitecturas de Deep Learning
 Desarrollo y evaluación de modelos de deep learning para la clasificación de imágenes dermatoscópicas, enfocándose en melanoma y carcinomas, usando arquitecturas como CNN, ViT y ConvNeXt, con técnicas de aprendizaje por transferencia y análisis comparativo de rendimiento.
 
 ## 📌 Objetivo
