@@ -35,10 +35,10 @@ Se utilizó el conjunto **HAM10000** (Harvard & ViDIR, ISIC Challenge), aplicado
 - matplotlib
 - pandas
 
-#📄 Licencia
+## 📄 Licencia
 
 Este proyecto es de uso académico. Si deseas usarlo o citarlo, por favor contacta previamente.
 
-#🙋 Autor
+## 🙋 Autor
 
 Rodrigo Gomez Rosado . Código PUCP : 20201676
