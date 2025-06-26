@@ -27,15 +27,18 @@ Se utilizó el conjunto **HAM10000** (Harvard & ViDIR, ISIC Challenge), aplicado
 - Gráficos de pérdida y precisión por época
 
 # CNN
-![imagen](https://github.com/user-attachments/assets/4f64ffca-2707-4fea-bd78-7a6e23a3d877)
+![imagen](https://github.com/user-attachments/assets/dd291980-171b-4ff5-b521-f2b5002cecbb)
+
 
 # Vision Transformer
+![imagen](https://github.com/user-attachments/assets/9f261286-893c-425a-bc45-c11eb8c91670)
 
-![imagen](https://github.com/user-attachments/assets/14035cd6-43ea-46a8-99a2-69add403c33f)
+
 
 
 # ConvNext
-![imagen](https://github.com/user-attachments/assets/6c366275-b013-4eaa-8226-d39c55afd87a)
+![imagen](https://github.com/user-attachments/assets/ee9124b3-16a9-4cb5-8989-8af9227441ea)
+
 
 
 
